@@ -2,8 +2,8 @@ package com.ctrust.spark
 
 /**
   * @program: ctrust-examples
-  * @description: ${description}
-  * @author: 曾亮
+  * @description: test
+  * @author: 
   * @create: 2019-01-10 18:10
   **/
 object SelfTest extends App {
